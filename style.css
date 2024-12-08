@@ -212,6 +212,10 @@ aside li i {
     background-color: #343a40;
     height: 100%;
 }
+.swiper-slide a{
+    text-decoration: none;
+    color: white;
+}
 
 .about-us {
     width:100%;
